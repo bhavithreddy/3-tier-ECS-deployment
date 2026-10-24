@@ -80,9 +80,22 @@ Before you begin, ensure that you have the following installed:
 
    
 
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e611e267-b590-4764-a3a7-56ed056b9659" />
 
-   
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9f132460-fdf4-4962-858d-cfa710f868ec" />
 
+
+
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2339179b-5ac1-4aff-bbcf-269caf1d5026" />
+
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/37002755-7eea-4d7b-8c7a-c33913fb1bdc" />
+
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/b9d44ed2-b9b4-41c8-a607-53fa86320d6f" />
+
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/160f4e8c-b09d-4f65-a0ee-bbbb4ded00b9" />
 
 
 
