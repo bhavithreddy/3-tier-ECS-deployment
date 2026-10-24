@@ -1,8 +1,3 @@
-# Three-Tier Application Deployment using Docker & Docker Compose
-[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
-[![YouTube](https://img.shields.io/badge/Video%20On%20-YouTube-red.svg)](https://www.youtube.com/@aman-pathak)
-[![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/avian19)
 
 ![Architecture](assets/Infra.gif)
 
